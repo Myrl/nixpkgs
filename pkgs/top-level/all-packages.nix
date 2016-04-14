@@ -11368,6 +11368,8 @@ in
   media-player-info = callPackage ../data/misc/media-player-info {};
 
   mobile_broadband_provider_info = callPackage ../data/misc/mobile-broadband-provider-info { };
+  
+  monoid-font = callPackage ../data/fonts/monoid {};
 
   montserrat = callPackage ../data/fonts/montserrat { };
 
